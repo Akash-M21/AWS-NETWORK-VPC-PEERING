@@ -48,6 +48,10 @@ The project includes:
     |        Apache Server           |
     +--------------------------------+
 
+
+
+
+![AWS VPC Peering Architecture](./AWS-VPC-PEERING.png)
 ```
 
 ---
