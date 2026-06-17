@@ -51,9 +51,8 @@ The project includes:
 
 
 
-![AWS VPC Peering Architecture](./AWS-VPC-PEERING.png)
 ```
-
+![AWS VPC Peering Architecture](./AWS-VPC-PEERING.png)
 ---
 
 ## Technologies Used
